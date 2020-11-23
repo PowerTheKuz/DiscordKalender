@@ -1,0 +1,1 @@
+_hide_ Bokstaver som ikke virker > =, å, æ, ø | _url_ =  EnUrl som kommer i win | _svar_ = Svaret | _win_ = Hva som kommer når du vinner | _hiden_ Ignorer linjen
